@@ -1,19 +1,5 @@
 # Movie-Recommendation-System
 
-### [Project Description](doc/project4_desc.md)
-
-Term: Fall 2019
-
-+ Team Section1 Group4
-+ Projec title: Collaborative Filtering Implementation And Evaluation 
-<img src="figs/colab.png" alt="collaborative filtering" width="500"/>
-
-+ Team members
-	+ Chongyu He (ch3379)
-	+ Daniel Lee (dl3250)
-	+ Yiwen Ma (ym2775)
-	+ Runzi Qiang (rq2156)
-	+ Yifan Yang (yy2955)
 + Project summary: 
 We worked on building a content filtering method for the recommendation system, using Stochatic Gradient Descent algorithm. Tempoeral regularization was usd for regularization and for postprocessing, SVD with KNN and SVD with kernel ridge regression was used.
 Our group’s goal is to see the difference between the two models:
